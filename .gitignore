@@ -31,3 +31,5 @@ venv/
 .DS_Store
 
 volunteers.json
+
+.python-version
