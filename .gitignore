@@ -1,0 +1,33 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Notebook generated data
+notebooks/data/
+notebooks/runs/
+notebooks/.ipynb_checkpoints/
+
+# General data
+data/
+raw_mumbai_latest/
+
+# Models
+models/
+
+# Configs
+config/
+
+# Logs
+*.log
+sms_log.txt
+
+# Dashboard runtime
+dashboard/
+
+# Python
+__pycache__/
+venv/
+
+# Mac
+.DS_Store
+
+volunteers.json
